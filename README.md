@@ -2,7 +2,7 @@
 
 Click the deploy icon below !
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nadjieb08/KaguraMD24)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nadjieb08/GBOT-MD)
 
 ```bash
  > heroku/nodejs
